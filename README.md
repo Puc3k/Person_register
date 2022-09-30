@@ -3,10 +3,10 @@
 
 ## Przykładowa instalacja Win10
 Wymagane:
-https://nodejs.org/en/download/
-https://getcomposer.org/download/
-https://www.apachefriends.org/pl/index.html
-https://git-scm.com/book/pl/v2/Pierwsze-kroki-Instalacja-Git
+- https://nodejs.org/en/download/
+- https://getcomposer.org/download/
+- https://www.apachefriends.org/pl/index.html
+- https://git-scm.com/book/pl/v2/Pierwsze-kroki-Instalacja-Git
 
 Po sklonowaniu repozytorium:
 - `cp .\.env.example .env` 
