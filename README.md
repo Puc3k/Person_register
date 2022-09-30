@@ -13,8 +13,8 @@ Po sklonowaniu repozytorium:
 - `composer install`
 - `npm install`
 - `php artisan key:generate`
-- `php artisan migrate`
 - należy stworzyć bazę danych `persons` 
+- `php artisan migrate`
 - uruchomić usługę Apache oraz MySQL w XAMPP'ie
 - `php artisan migrate`
 - opcjonalnie w celu wypełnienia tabeli testowymi danymi `php artisan db:seed `
